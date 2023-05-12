@@ -1,0 +1,21 @@
+2023-03-15 07:06:32,970 - apscheduler.scheduler - INFO - Scheduler started
+2023-03-15 10:58:17,204 - root - ERROR - Ошибка при записи данных пользователя в БД: 1062 (23000): Duplicate entry '477706516' for key 'chart_users.PRIMARY'
+otosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2023-03-15 07:09:43,266 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 07:09:45,182 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2023-03-15 07:09:45,260 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2023-03-15 07:24:43,365 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 07:39:43,471 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 07:54:43,575 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 08:09:43,680 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 08:24:43,784 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 08:39:43,790 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 08:54:43,887 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 09:09:43,929 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 09:24:43,974 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 09:39:44,017 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 09:54:44,092 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 10:09:44,245 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 10:24:44,327 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 10:39:44,550 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
+2023-03-15 10:54:44,780 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: SessionRevokedError
